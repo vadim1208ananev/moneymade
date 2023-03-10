@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "moneymade/editorial",
+	"version": "0.1.0",
+	"title": "Editorial Widget",
+	"category": "moneymade_monetization",
+	"icon": "calculator",
+	"description": "This widget has a more native content look and feel.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "editorial",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}

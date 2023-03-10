@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "moneymade/ask",
+  "version": "0.1.0",
+  "title": "Ask An Expert Widget",
+  "category": "moneymade_markets",
+  "icon": "calculator",
+  "description": "Here you can find a ready to go code to use the widget inside a modal",
+  "supports": {
+    "html": false
+  },
+  "textdomain": "ask",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

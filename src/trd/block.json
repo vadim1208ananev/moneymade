@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "moneymade/trd",
+	"version": "0.1.0",
+	"title": "The Revenue Driver Widget",
+	"category": "moneymade_monetization",
+	"icon": "calculator",
+	"description": "The Revenue Driver is one of our most popular widgets. This Revenue Driver showcases our premium partners with necessary information and data to drive valuable clicks. Our Adtech AI will optimize what products are shown to your users in every widget, even on specific articles - all based on the highest RPMs.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "trd",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}

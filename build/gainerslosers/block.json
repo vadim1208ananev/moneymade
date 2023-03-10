@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "moneymade/gainerslosers",
+  "version": "0.1.0",
+  "title": "Crypto/Stock Gainers & Losers Widget",
+  "category": "moneymade_markets",
+  "icon": "calculator",
+  "description": "A comparison view of the best and worst performing Crypto/Stock assets over time",
+  "supports": {
+    "html": false
+  },
+  "textdomain": "gainerslosers",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

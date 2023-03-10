@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "moneymade/industry",
+	"version": "0.1.0",
+	"title": "Industry specific Widget",
+	"category": "moneymade_monetization",
+	"icon": "calculator",
+	"description": "Widget which allow to show industry specific platforms",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "industry",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}

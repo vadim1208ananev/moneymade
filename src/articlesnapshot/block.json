@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "moneymade/articlesnapshot",
+	"version": "0.1.0",
+	"title": "Article Snapshot Widget",
+	"category": "moneymade_markets",
+	"icon": "calculator",
+	"description": "A lead-in widget to be placed at the top of articles that displays three tickers or asset classes covered in the article.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "articlesnapshot",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}

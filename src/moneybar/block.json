@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "moneymade/moneybar",
+	"version": "0.1.0",
+	"title": "Money Bar Widget",
+	"category": "moneymade_monetization",
+	"icon": "calculator",
+	"description": "The MoneyBar is a highly effective widget that rotates our most Premium Partners that pay on a CPC. It can be placed at the top or bottom of your page. You can make this sticky, so it’s always present when a user scrolls. Users can easily close this widget if they’re not interested. Make this site wide for most effective results",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "moneybar",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}

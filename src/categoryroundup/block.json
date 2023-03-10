@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "moneymade/categoryroundup",
+	"version": "0.1.0",
+	"title": "Category Roundup Widget",
+	"category": "moneymade_markets",
+	"icon": "calculator",
+	"description": "Customizable table comparing investments across a category. Available with stock or crypto tickers",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "categoryroundup",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "moneymade/compactperformance",
+	"version": "0.1.0",
+	"title": "Compact Performance Widget",
+	"category": "moneymade_markets",
+	"icon": "calculator",
+	"description": "A returns chart for one publicly traded ticker, asset class or asset sub-category, plus S&P 500 comparison and additional performance metrics",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "compactperformance",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}

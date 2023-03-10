@@ -1,0 +1,76 @@
+/*!**********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/topnft/style.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-moneymade-topnft {
+  /*background-color:gray;*/
+  /*color: #fff;*/
+  padding: 2px;
+}
+
+.block-widget {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.block-widget-title {
+  font-size: 34px;
+  font-weight: bold;
+  color: black;
+}
+
+.block-widget-body {
+  width: 85%;
+}
+
+.blockrb {
+  display: flex;
+  gap: 108px;
+}
+
+.components-button.is-secondary {
+  color: red;
+}
+
+.title-auth-result {
+  text-align: center;
+  color: red;
+}
+
+.block-widget-description {
+  padding: 10px;
+  width: 85%;
+}
+
+.btn_monymade {
+  display: inline-block;
+  background: red;
+  color: #fff !important;
+  padding: 0.3rem 0.5rem;
+  text-decoration: none;
+  border-radius: 45px;
+  text-decoration: none !important;
+  margin: 10px;
+}
+
+.moneymade_btn_block {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.btn_title_moneymade {
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+/*# sourceMappingURL=style-index.css.map*/

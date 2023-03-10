@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "moneymade/bpt",
+	"version": "0.1.0",
+	"title": "Best Performing Table Widget",
+	"category": "moneymade_markets",
+	"icon": "calculator",
+	"description": "View of the best performing ETFs and mutual funds per selected ratio",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "bpt",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}

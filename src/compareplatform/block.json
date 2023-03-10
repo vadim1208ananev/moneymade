@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "moneymade/compareplatform",
+	"version": "0.1.0",
+	"title": "Compare Platforms Widget",
+	"category": "moneymade_monetization",
+	"icon": "calculator",
+	"description": "Widget which allow to compare 3 or less platforms",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "compareplatform",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}
